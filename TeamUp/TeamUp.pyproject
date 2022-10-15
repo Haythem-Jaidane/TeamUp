@@ -1,3 +1,3 @@
 {
-    "files": ["main.py"]
+    "files": ["Model/DataBase.py","Model/Project.py","main.py","Model/Student.py","Model/Team.py","Model/Task.py"]
 }

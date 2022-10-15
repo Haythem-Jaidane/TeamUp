@@ -6,7 +6,7 @@ import Model.DataBase
 
 
 if __name__ == "__main__":
-    base=DataBase()
+    base = DataBase()
     f = base.connect()
     app = QApplication([])
     # ...
