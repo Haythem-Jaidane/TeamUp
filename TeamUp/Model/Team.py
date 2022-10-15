@@ -2,5 +2,8 @@
 
 
 class Team:
+
     def __init__(self):
-        pass
+        self.idTeam = idTeam
+        self.teamMark = teamMark
+        self.Project_id = Project_id

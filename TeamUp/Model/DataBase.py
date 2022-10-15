@@ -14,10 +14,11 @@ class DataBase:
             mydb = mysql.connector.connect(
                 host=self.host,
                 user=self.user,
-                password=self.password
+                password=self.password,
+                database="TeamUp"
             )
             return mydb
         except:
-            raise("check your database")
+            raise ("check your database")
             return null
 

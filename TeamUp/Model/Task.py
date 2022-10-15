@@ -2,5 +2,11 @@
 
 
 class Task:
+
     def __init__(self):
-        pass
+        self.idTask = idTask
+        self.taskName = taskName
+        self.exp = exp
+        self.Deadline = Deadline
+        self.Student_id = Student_id
+        self.Project_id = Project_id

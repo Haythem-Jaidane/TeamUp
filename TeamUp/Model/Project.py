@@ -2,5 +2,8 @@
 
 
 class Project:
-    def __init__(self):
-        pass
+
+    def __init__(self,idProject,Description,githubLink):
+        self.idProject=idProject
+        self.Description=Description
+        self.githubLink=githubLink
