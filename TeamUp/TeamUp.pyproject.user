@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 6.0.1, 2022-10-16T03:26:50. -->
+<!-- Written by QtCreator 6.0.1, 2022-10-16T06:37:47. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -122,12 +122,10 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp/main.py</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp/main.py</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter">{05e261fb-7a33-4908-8481-494fef3e5914}</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\LENOVO\Documents\TeamUp\TeamUp\TeamUp\main.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.1">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -140,12 +138,10 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp/Model/DataBase.py</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp/Model/DataBase.py</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter">{250bfeac-dfc9-4071-a184-0170cf5bf690}</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\LENOVO\Documents\TeamUp\TeamUp\TeamUp\Model\DataBase.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp/Model</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.2">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -158,12 +154,10 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp/Model/Student.py</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp/Model/Student.py</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter">{6111e615-25b6-4288-b9d0-8e8517e1c671}</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\LENOVO\Documents\TeamUp\TeamUp\TeamUp\Model\Student.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp/Model</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.3">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -176,12 +170,10 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp/Model/Project.py</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp/Model/Project.py</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter">{30214dcf-c417-4190-b9a9-3c43a8d8126a}</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\LENOVO\Documents\TeamUp\TeamUp\TeamUp\Model\Project.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp/Model</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.4">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -194,12 +186,10 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp/Model/Team.py</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp/Model/Team.py</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter">{08ccbefb-6eab-4fd4-af6d-f549d103c89c}</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\LENOVO\Documents\TeamUp\TeamUp\TeamUp\Model\Team.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp/Model</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.5">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -212,12 +202,10 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp/Model/Task.py</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp/Model/Task.py</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter">{84eb22b7-040d-4f83-b74b-0d8d467704fa}</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\LENOVO\Documents\TeamUp\TeamUp\TeamUp\Model\Task.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp/Model</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.6">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -230,12 +218,10 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp/View/MainView.py</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp/View/MainView.py</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter">{56f05fcf-a57d-417f-b17f-9776fe40357e}</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\LENOVO\Documents\TeamUp\TeamUp\TeamUp\View\MainView.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp/View</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.7">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -247,12 +233,11 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp/Controller/MainControl.py</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp/Controller/MainControl.py</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp/Controller/MainControl.py</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\LENOVO\Documents\TeamUp\TeamUp\TeamUp\Controller\MainControl.py</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Interpreter">{c84edd3b-5582-4de6-87b5-aa2c27e3f656}</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/LENOVO/Documents/TeamUp/TeamUp/TeamUp/Controller</value>
    </valuemap>
    <value type="qlonglong" key="ProjectExplorer.Target.RunConfigurationCount">8</value>
   </valuemap>
