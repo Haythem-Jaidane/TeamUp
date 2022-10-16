@@ -5,7 +5,7 @@ import pytest
 
 import sys
 sys.path.append("../TeamUp")
-from Control import MainControl
+from Controller import MainControl
 from Model import DataBase
 
 class TestCRUD:
