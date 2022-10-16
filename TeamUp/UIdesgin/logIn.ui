@@ -13,6 +13,12 @@
   <property name="windowTitle">
    <string>MainWindow</string>
   </property>
+  <property name="autoFillBackground">
+   <bool>false</bool>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">color:#591B1B;</string>
+  </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QPushButton" name="pushButton_8">
     <property name="geometry">
@@ -31,7 +37,7 @@
     <property name="styleSheet">
      <string notr="true">*{
 border-radius: 35px;
-background:#E391AE
+background:#590000;
 }</string>
     </property>
     <property name="text">
@@ -130,7 +136,7 @@ border-bottom:1px solid #717072;
       <string>UserName</string>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton_18">
+    <widget class="QPushButton" name="submit_button">
      <property name="geometry">
       <rect>
        <x>310</x>
@@ -141,14 +147,16 @@ border-bottom:1px solid #717072;
      </property>
      <property name="font">
       <font>
-       <pointsize>11</pointsize>
+       <family>Berlin Sans FB</family>
+       <pointsize>12</pointsize>
+       <bold>false</bold>
       </font>
      </property>
      <property name="styleSheet">
       <string notr="true">*{
 color:white;
 border-radius: 15px;
-background:#E391AE;
+background:#590000;
 }
 
 *:hover
@@ -165,21 +173,20 @@ background:#E391AE;
     <widget class="QLabel" name="label_5">
      <property name="geometry">
       <rect>
-       <x>230</x>
-       <y>30</y>
+       <x>240</x>
+       <y>70</y>
        <width>91</width>
        <height>51</height>
       </rect>
      </property>
      <property name="font">
       <font>
-       <family>century gothic</family>
+       <family>Berlin Sans FB</family>
        <pointsize>-1</pointsize>
       </font>
      </property>
      <property name="styleSheet">
       <string notr="true">*{
-    font-family:century gothic;
     font-size:30px;
 	color:black;
 }
@@ -270,14 +277,16 @@ border-bottom:1px solid #717072;
      </property>
      <property name="font">
       <font>
-       <pointsize>11</pointsize>
+       <family>Berlin Sans FB</family>
+       <pointsize>12</pointsize>
+       <bold>false</bold>
       </font>
      </property>
      <property name="styleSheet">
       <string notr="true">*{
 color:white;
 border-radius: 15px;
-background:#E391AE;
+background:#590000;
 }
 
 *:hover
