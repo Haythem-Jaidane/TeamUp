@@ -30,7 +30,7 @@ background:white;
     </property>
     <property name="styleSheet">
      <string notr="true">*{
-background:red;
+background:#E391AE;
 }</string>
     </property>
     <widget class="QWidget" name="forum" native="true">
@@ -99,7 +99,7 @@ background:black;
     </property>
     <property name="styleSheet">
      <string notr="true">*{
-background:red;
+background:#E391AE;
 }</string>
     </property>
     <widget class="QLabel" name="label_23">
@@ -286,7 +286,7 @@ background:white;
     </property>
     <property name="styleSheet">
      <string notr="true">*{
-background:red;
+background:#E391AE;
 }</string>
     </property>
     <widget class="QWidget" name="Group" native="true">
@@ -941,7 +941,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     </property>
     <property name="styleSheet">
      <string notr="true">*{
-background:red;
+background:#E391AE;
 }</string>
     </property>
     <widget class="QWidget" name="project_3" native="true">
