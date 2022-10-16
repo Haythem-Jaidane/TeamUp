@@ -1,3 +1,3 @@
 {
-    "files": ["Model/Project.py","Model/DataBase.py","Model/Team.py","View/MainView.py","main.py","Controller/MainControl.py","Model/Task.py","UIdesgin/MainPage.ui","Model/Student.py"]
+    "files": ["Controller/MainControl.py","Model/Team.py","Model/Student.py","main.py","UIdesgin/MainPage.ui","Model/Task.py","Model/Project.py","Model/DataBase.py","View/MainView.py","UIdesgin/logIn.ui"]
 }

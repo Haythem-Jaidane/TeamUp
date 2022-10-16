@@ -30,7 +30,8 @@ background:white;
     </property>
     <property name="styleSheet">
      <string notr="true">*{
-background:red;
+background:#E391AE;
+border-radius: 15px;
 }</string>
     </property>
     <widget class="QWidget" name="forum" native="true">
@@ -45,6 +46,7 @@ background:red;
      <property name="styleSheet">
       <string notr="true">*{
 background:white;
+border-radius: 15px;
 }</string>
      </property>
      <widget class="QPushButton" name="Join_Forum">
@@ -58,6 +60,20 @@ background:white;
       </property>
       <property name="styleSheet">
        <string notr="true">*{
+color:white;
+border-radius: 15px;
+background:black;
+}
+
+*:hover
+{
+	color:black;
+	border-radius:15px;
+	background:#E391AE;
+}
+
+*:pressed
+{
 color:white;
 border-radius: 15px;
 background:black;
@@ -91,15 +107,16 @@ background:black;
    <widget class="QWidget" name="Navbar" native="true">
     <property name="geometry">
      <rect>
-      <x>250</x>
-      <y>20</y>
+      <x>240</x>
+      <y>30</y>
       <width>841</width>
       <height>71</height>
      </rect>
     </property>
     <property name="styleSheet">
      <string notr="true">*{
-background:red;
+background:#E391AE;
+border-radius: 15px;
 }</string>
     </property>
     <widget class="QLabel" name="label_23">
@@ -170,6 +187,20 @@ border-bottom:1px solid #717072;
 color:black;
 border-radius: 15px;
 background:white;
+}
+
+*:hover
+{
+	color:white;
+	border-radius:15px;
+	background:black;
+}
+
+*:pressed
+{
+color:black;
+border-radius: 15px;
+background:white;
 }</string>
      </property>
      <property name="text">
@@ -189,7 +220,7 @@ background:white;
       <string/>
      </property>
      <property name="pixmap">
-      <pixmap>../../../Project gmc/xpLogo.png</pixmap>
+      <pixmap>../../../../../Project gmc/xpLogo.png</pixmap>
      </property>
      <property name="scaledContents">
       <bool>true</bool>
@@ -286,7 +317,8 @@ background:white;
     </property>
     <property name="styleSheet">
      <string notr="true">*{
-background:red;
+background:#E391AE;
+border-radius: 15px;
 }</string>
     </property>
     <widget class="QWidget" name="Group" native="true">
@@ -314,6 +346,20 @@ background:white;
       </property>
       <property name="styleSheet">
        <string notr="true">*{
+color:white;
+border-radius: 15px;
+background:black;
+}
+
+*:hover
+{
+	color:black;
+	border-radius:15px;
+	background:#E391AE;
+}
+
+*:pressed
+{
 color:white;
 border-radius: 15px;
 background:black;
@@ -357,6 +403,9 @@ size:10%;
        </rect>
       </property>
       <layout class="QGridLayout">
+       <property name="sizeConstraint">
+        <enum>QLayout::SetDefaultConstraint</enum>
+       </property>
        <property name="spacing">
         <number>0</number>
        </property>
@@ -479,10 +528,18 @@ color:white;
 border-radius: 15px;
 background:black;
 }
-*:hover{
-color:black;
+*:hover
+{
+	color:black;
+	border-radius:15px;
+	background:#E391AE;
+}
+
+*:pressed
+{
+color:white;
 border-radius: 15px;
-background:#DBDBDB;
+background:black;
 }
 </string>
       </property>
@@ -523,7 +580,13 @@ size:10%;
         <height>241</height>
        </rect>
       </property>
-      <layout class="QVBoxLayout" name="verticalLayout">
+      <layout class="QVBoxLayout" name="_2">
+       <property name="spacing">
+        <number>0</number>
+       </property>
+       <property name="sizeConstraint">
+        <enum>QLayout::SetDefaultConstraint</enum>
+       </property>
        <item>
         <widget class="QLabel" name="label_12">
          <property name="font">
@@ -597,6 +660,20 @@ background:white;
       </property>
       <property name="styleSheet">
        <string notr="true">*{
+color:white;
+border-radius: 15px;
+background:black;
+}
+
+*:hover
+{
+	color:black;
+	border-radius:15px;
+	background:#E391AE;
+}
+
+*:pressed
+{
 color:white;
 border-radius: 15px;
 background:black;
@@ -684,6 +761,20 @@ background:white;
 color:white;
 border-radius: 15px;
 background:black;
+}
+
+*:hover
+{
+	color:black;
+	border-radius:15px;
+	background:#E391AE;
+}
+
+*:pressed
+{
+color:white;
+border-radius: 15px;
+background:black;
 }</string>
       </property>
       <property name="text">
@@ -768,6 +859,20 @@ background:white;
 color:white;
 border-radius: 15px;
 background:black;
+}
+
+*:hover
+{
+	color:black;
+	border-radius:15px;
+	background:#E391AE;
+}
+
+*:pressed
+{
+color:white;
+border-radius: 15px;
+background:black;
 }</string>
       </property>
       <property name="text">
@@ -849,6 +954,20 @@ background:white;
       </property>
       <property name="styleSheet">
        <string notr="true">*{
+color:white;
+border-radius: 15px;
+background:black;
+}
+
+*:hover
+{
+	color:black;
+	border-radius:15px;
+	background:#E391AE;
+}
+
+*:pressed
+{
 color:white;
 border-radius: 15px;
 background:black;
@@ -941,7 +1060,8 @@ li.checked::marker { content: &quot;\2612&quot;; }
     </property>
     <property name="styleSheet">
      <string notr="true">*{
-background:red;
+background:#E391AE;
+border-radius: 15px;
 }</string>
     </property>
     <widget class="QWidget" name="project_3" native="true">
