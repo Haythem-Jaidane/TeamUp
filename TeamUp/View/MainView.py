@@ -35,7 +35,7 @@ class MainView(QMainWindow):
         self.window.setWindowTitle("TeamUp")
         M=MainControl.MainControl()
         H=M.read("Student")
-        self.window.XP.setText(str(self.window.XP.text())+" : "+str(H[0][4]))
+        self.window.XP.setText(f"{str(self.window.XP.text())} : {str(H[0][4])}")
         self.window.Name.setText(H[0][1])
         self.window.Personality.setText(H[0][2])
         self.window.label_22.setText(H[0][5])
